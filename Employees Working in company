@@ -1,0 +1,15 @@
+pragma solidity ^ 0.5.17;
+contract EmployeesData{
+    string public EmployeesName;
+    int public Employeesage;
+    string public Employeesgender;
+    int Employeessalary;
+    string Employeesvillage;
+ 
+    functiom Employees(string newEmployeesname, int newEmployeesage, string newEmployeesgender, int newEmployeessalary, string newEmployeesvillage) public{
+        
+    }
+
+    
+    
+}
